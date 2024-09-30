@@ -1,3 +1,8 @@
 # Notice
 Fork from https://github.com/EliverLara/Sweet/tree/nova/kde/sddm
-This repo is for personal usage
+, this repo is for personal usage.
+
+# What are the changes?
+- Different color icon
+- Different layout
+- Different default wallpaper
