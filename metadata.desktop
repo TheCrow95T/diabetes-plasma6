@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=diabetes-plasma6
+Description=Diabetes sddm theme for plasma 6
+Author=amendedByTheCrow95T
+Copyright=(c) 2024, TheCrow95T
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/TheCrow95T/diabetes-plasma6
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=ayanotateyama95@gmail.com
+Theme-Id=diabetes-plasma6
+Theme-API=2.0
+QtVersion=6
